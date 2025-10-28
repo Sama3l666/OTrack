@@ -11,6 +11,8 @@
 // @grant        GM_deleteValue
 // @grant        GM_listValues
 // @run-at       document-idle
+// @updateURL    https://raw.githubusercontent.com/Sama31666/OTrack---Alliance-Progress-Tracker/main/OTrack%20-%20Alliance%20Progress%20Tracker-2.2.1.user.js
+// @downloadURL  https://raw.githubusercontent.com/Sama31666/OTrack---Alliance-Progress-Tracker/main/OTrack%20-%20Alliance%20Progress%20Tracker-2.2.1.user.js
 // ==/UserScript==
 
 (function() {
